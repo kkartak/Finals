@@ -2,7 +2,8 @@
 The Final Assignments for WRIT 4662W Writing With Digital Literacies
 ## Files Included in This Repository:
 * Final Commentary
-* Final LibreOffice Book Interior
+* Final LibreOffice Book Interior PDF File
+* Final LibreOffice Book Interior ODT File Source
 * Final Reflection
 * Personal Learning Network Diagram.PNG Image File
 * README.md
